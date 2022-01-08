@@ -16,3 +16,5 @@ if __name__ == "__main__":
     print("branch2_second_commit")
 
     print("branch2_branch3")
+
+    print("branch4_under_master")
