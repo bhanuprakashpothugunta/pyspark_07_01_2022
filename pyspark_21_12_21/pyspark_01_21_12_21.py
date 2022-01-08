@@ -16,3 +16,5 @@ if __name__ == "__main__":
     print("new_branch1_under_master")
 
     print("bra1_m")
+
+    print("bra_from_bra1_changes")
